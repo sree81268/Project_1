@@ -25,8 +25,9 @@ Var_1 - 	Anonymised Category for the customer
 Segmentation -	(target) Customer Segment of the customer
 
 ### Tools
+
+- EXCEL Power Query for Data Clenaing
 - SQL ( My SQL Work Bench)
-- Power Query for ETL Process
 - Power BI For reporting and data analysis [Download here](https://microsoft.com)
 
 
